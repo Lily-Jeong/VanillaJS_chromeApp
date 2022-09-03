@@ -1,5 +1,5 @@
 # VanillaJS_chromeApp
-<h3>노마드 코더 프로젝트, JavaScript를 사용해 Chrome Application 만들기</h3>
+<h3>[노마드 코더 프로젝트] JavaScript를 사용해 Chrome Application 만들기</h3>
 <h6>September 4, 2022 ~ September 9, 2022</h6>
 <div>
   <ul>
