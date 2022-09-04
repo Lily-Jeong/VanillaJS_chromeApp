@@ -5,5 +5,6 @@
   <ul>
     <li><b>NOVICE!</b> JavaScript 초급자 과정</li>
     <li>Chrome App 만들면서 이론을 실제로 구현하는 법을 익히기</li>
+    <li><b><i>momentum</i></b> clone coding 💻 </li>
   </ul>
 </div>
